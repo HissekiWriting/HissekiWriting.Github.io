@@ -1,4 +1,4 @@
-[](https://github.com/HissekiWriting/HissekiWriting.Github.io/blob/main/Pictures/BOOOOOOMMMMM.webp)
+![头图](https://github.com/HissekiWriting/HissekiWriting.Github.io/blob/main/Pictures/BOOOOOOMMMMM.webp)
 
 # 这里是Readme
 
